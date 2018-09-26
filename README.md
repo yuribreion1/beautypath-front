@@ -1,0 +1,1 @@
+# beautypath-front
